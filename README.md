@@ -1,2 +1,1 @@
-# trainityprojects
-SQL projects
+# Trainity Project On Mysql
